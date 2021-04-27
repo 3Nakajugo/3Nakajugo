@@ -1,4 +1,4 @@
-## Me in detail 😄
+## Me in detail 
 
 Hi there 👋 I'm Edna Nakajugo , A software developer and a Learning Mentor.
 
