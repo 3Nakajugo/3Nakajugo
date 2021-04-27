@@ -16,9 +16,9 @@ Readily available to work on projects in python. 😉
 
 <!-- Icons -->
 
-[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "twitter"
+[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white "twitter"
 
-[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "LinkedIn"
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn"
 
 <!-- Links to your social media accounts -->
 
